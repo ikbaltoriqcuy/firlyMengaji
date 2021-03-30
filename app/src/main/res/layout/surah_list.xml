@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/bismillah"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@color/colorPrimary">
+
+        <TextView
+            android:id="@+id/textBismillah"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْم"
+            android:textSize="30sp"
+            android:textAlignment="center"
+            android:textColor="#fff"
+            android:layout_centerVertical="true"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="80px"
+                android:layout_height="80px"
+                android:src="@drawable/frame" />
+
+            <TextView
+                android:id="@+id/num_ayah"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:textSize="10sp"
+                tools:text="1" />
+
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/ayah"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end"
+            android:lineSpacingExtra="10dp"
+            android:paddingLeft="8dp"
+            android:textAlignment="viewEnd"
+            android:textSize="20sp"
+            tools:text="فِيْ قُلُوْبِهِمْ مَّرَضٌۙ فَزَادَهُمُ اللّٰهُ مَرَضًاۚ وَلَهُمْ عَذَابٌ اَلِيْمٌ ۢ ەۙ بِمَا كَانُوْا يَكْذِبُوْن" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/arti"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="60dp"
+        android:paddingTop="10dp"
+        android:textSize="15sp"
+        android:paddingBottom="15dp"
+        tools:text="Dengan nama Allah Yang Maha Pengasih, Maha Penyayang." />
+</LinearLayout>

@@ -1,0 +1,392 @@
+	[
+    {
+        "index": "01",
+        "start": {
+            "index": "001",
+            "verse": "verse_1",
+            "nosurah": "1"
+        },
+        "end": {
+            "index": "002",
+            "verse": "verse_141",
+            "nosurah": "2"
+        }
+    },
+    {
+        "index": "02",
+        "start": {
+            "index": "002",
+            "verse": "verse_142",
+            "nosurah": "2"
+        },
+        "end": {
+            "index": "002",
+            "verse": "verse_252",
+            "nosurah": "2"
+        }
+    },
+    {
+        "index": "03",
+        "start": {
+            "index": "002",
+            "verse": "verse_253",
+            "nosurah": "2"
+        },
+        "end": {
+            "index": "003",
+            "verse": "verse_92",
+            "nosurah": "3"
+        }
+    },
+    {
+        "index": "04",
+        "start": {
+            "index": "003",
+            "verse": "verse_93",
+            "nosurah": "3"
+        },
+        "end": {
+            "index": "004",
+            "verse": "verse_23",
+            "nosurah": "4"
+        }
+    },
+    {
+        "index": "05",
+        "start": {
+            "index": "004",
+            "verse": "verse_24",
+            "nosurah": "4"
+        },
+        "end": {
+            "index": "004",
+            "verse": "verse_147",
+            "nosurah": "4"
+        }
+    },
+    {
+        "index": "06",
+        "start": {
+            "index": "004",
+            "verse": "verse_148",
+            "nosurah": "4"
+        },
+        "end": {
+            "index": "005",
+            "verse": "verse_81",
+            "nosurah": "5"
+        }
+    },
+    {
+        "index": "07",
+        "start": {
+            "index": "005",
+            "verse": "verse_82",
+            "nosurah": "5"
+        },
+        "end": {
+            "index": "006",
+            "verse": "verse_110",
+            "nosurah": "6"
+        }
+    },
+    {
+        "index": "08",
+        "start": {
+            "index": "006",
+            "verse": "verse_111",
+            "nosurah": "6"
+        },
+        "end": {
+            "index": "007",
+            "verse": "verse_87",
+            "nosurah": "7"
+        }
+    },
+    {
+        "index": "09",
+        "start": {
+            "index": "007",
+            "verse": "verse_88",
+            "nosurah": "7"
+        },
+        "end": {
+            "index": "008",
+            "verse": "verse_40",
+            "nosurah": "8"
+        }
+    },
+    {
+        "index": "10",
+        "start": {
+            "index": "008",
+            "verse": "verse_41",
+            "nosurah": "8"
+        },
+        "end": {
+            "index": "009",
+            "verse": "verse_92",
+            "nosurah": "9"
+        }
+    },
+    {
+        "index": "11",
+        "start": {
+            "index": "009",
+            "verse": "verse_93",
+            "nosurah": "9"
+        },
+        "end": {
+            "index": "011",
+            "verse": "verse_5",
+            "nosurah": "11"
+        }
+    },
+    {
+        "index": "12",
+        "start": {
+            "index": "011",
+            "verse": "verse_6",
+            "nosurah": "11"
+        },
+        "end": {
+            "index": "012",
+            "verse": "verse_52",
+            "nosurah": "12"
+        }
+    },
+    {
+        "index": "13",
+        "start": {
+            "index": "012",
+            "verse": "verse_53",
+            "nosurah": "12"
+        },
+        "end": {
+            "index": "014",
+            "verse": "verse_52",
+            "nosurah": "14"
+        }
+    },
+    {
+        "index": "14",
+        "start": {
+            "index": "015",
+            "verse": "verse_1",
+            "nosurah": "15"
+        },
+        "end": {
+            "index": "016",
+            "verse": "verse_128",
+            "nosurah": "16"
+        }
+    },
+    {
+        "index": "15",
+        "start": {
+            "index": "017",
+            "verse": "verse_1",
+            "nosurah": "17"
+        },
+        "end": {
+            "index": "018",
+            "verse": "verse_74",
+            "nosurah": "18"
+        }
+    },
+    {
+        "index": "16",
+        "start": {
+            "index": "018",
+            "verse": "verse_75",
+            "nosurah": "18"
+        },
+        "end": {
+            "index": "020",
+            "verse": "verse_135",
+            "nosurah": "20"
+        }
+    },
+    {
+        "index": "17",
+        "start": {
+            "index": "021",
+            "verse": "verse_1",
+            "nosurah": "21"
+        },
+        "end": {
+            "index": "022",
+            "verse": "verse_78",
+            "nosurah": "22"
+        }
+    },
+    {
+        "index": "18",
+        "start": {
+            "index": "023",
+            "verse": "verse_1",
+            "nosurah": "23"
+        },
+        "end": {
+            "index": "025",
+            "verse": "verse_20",
+            "nosurah": "25"
+        }
+    },
+    {
+        "index": "19",
+        "start": {
+            "index": "025",
+            "verse": "verse_21",
+            "nosurah": "25"
+        },
+        "end": {
+            "index": "027",
+            "verse": "verse_55",
+            "nosurah": "27"
+        }
+    },
+    {
+        "index": "20",
+        "start": {
+            "index": "027",
+            "verse": "verse_56",
+            "nosurah": "27"
+        },
+        "end": {
+            "index": "029",
+            "verse": "verse_45",
+            "nosurah": "29"
+        }
+    },
+    {
+        "index": "21",
+        "start": {
+            "index": "029",
+            "verse": "verse_46",
+            "nosurah": "29"
+        },
+        "end": {
+            "index": "033",
+            "verse": "verse_30",
+            "nosurah": "33"
+        }
+    },
+    {
+        "index": "22",
+        "start": {
+            "index": "033",
+            "verse": "verse_31",
+            "nosurah": "33"
+        },
+        "end": {
+            "index": "036",
+            "verse": "verse_27",
+            "nosurah": "36"
+        }
+    },
+    {
+        "index": "23",
+        "start": {
+            "index": "036",
+            "verse": "verse_28",
+            "nosurah": "36"
+        },
+        "end": {
+            "index": "039",
+            "verse": "verse_31",
+            "nosurah": "39"
+        }
+    },
+    {
+        "index": "24",
+        "start": {
+            "index": "039",
+            "verse": "verse_32",
+            "nosurah": "39"
+        },
+        "end": {
+            "index": "041",
+            "verse": "verse_46",
+            "nosurah": "41"
+        }
+    },
+    {
+        "index": "25",
+        "start": {
+            "index": "041",
+            "verse": "verse_47",
+            "nosurah": "41"
+        },
+        "end": {
+            "index": "045",
+            "verse": "verse_37",
+            "nosurah": "45"
+        }
+    },
+    {
+        "index": "26",
+        "start": {
+            "index": "046",
+            "verse": "verse_1",
+            "nosurah": "46"
+        },
+        "end": {
+            "index": "051",
+            "verse": "verse_30",
+            "nosurah": "51"
+        }
+    },
+    {
+        "index": "27",
+        "start": {
+            "index": "051",
+            "verse": "verse_31",
+            "nosurah": "51"
+        },
+        "end": {
+            "index": "057",
+            "verse": "verse_29",
+            "nosurah": "57"
+        }
+    },
+    {
+        "index": "28",
+        "start": {
+            "index": "058",
+            "verse": "verse_1",
+            "nosurah": "58"
+        },
+        "end": {
+            "index": "066",
+            "verse": "verse_12",
+            "nosurah": "66"
+        }
+    },
+    {
+        "index": "29",
+        "start": {
+            "index": "067",
+            "verse": "verse_1",
+            "nosurah": "67"
+        },
+        "end": {
+            "index": "077",
+            "verse": "verse_50",
+            "nosurah": "77"
+        }
+    },
+    {
+        "index": "30",
+        "start": {
+            "index": "078",
+            "verse": "verse_1",
+            "nosurah": "78"
+        },
+        "end": {
+            "index": "114",
+            "verse": "verse_6",
+            "nosurah": "114"
+        }
+    }
+]
